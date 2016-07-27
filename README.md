@@ -17,15 +17,15 @@ Maven 的安装非常简单, 网上搜下成堆的内容. 项目所需的jar包�
 
 此程序需要以下环境支持:
 
-mysql5.x
+mysql5.1 及以上
 
 jdk 1.7 及以上
 
 tomcat 7
 
-memcache
+memcache 1.2.6及以上
 
-redis
+redis 2.6及以上
 
 
 
@@ -40,6 +40,7 @@ redis
 	<Host name="www.blog.com"  appBase="" unpackWARs="true" autoDeploy="true">
 		<Context path="" docBase="E:/dev-www/java/maven_example/src/main/webapp" reloadable="true"/>  
     </Host>
+	docBase 改成你的目录
 
 5 重启tomcat, 在浏览器里输入 http://www.blog.com:8080/index.htm
 	
