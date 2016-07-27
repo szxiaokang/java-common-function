@@ -45,5 +45,20 @@ redis 2.6及以上
 5 重启tomcat, 在浏览器里输入 http://www.blog.com:8080/index.htm
 	
 	祝你好运 :)
-	
+
 	如有疑问, 可联系 273030282@qq.com
+	
+# 页面截图
+
+首页
+
+![](http://static.oschina.net/uploads/space/2016/0727/100202_Na6G_1397876.png)
+
+
+管理员登录
+
+![](http://static.oschina.net/uploads/space/2016/0727/100318_Z6T1_1397876.jpg)
+
+后台首页
+
+![](http://static.oschina.net/uploads/space/2016/0727/100353_dqd2_1397876.png)
