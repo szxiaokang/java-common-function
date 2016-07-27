@@ -1,5 +1,10 @@
-# java maven example
-maven 测试程序(本例所需jar包已放入lib下, 也可以不用maven)
+# Java Maven Example
+Maven 测试程序
+
+Maven 的安装非常简单, 网上搜下成堆的内容. 项目所需的jar包在pom.xml中配置, 这也重点之一. 
+
+本例所需jar包已放入lib下, 也可以不用Maven下载所需的jar包, 让我们明白Maven的使用才是重要的.
+
 
 # 功能说明
 
